@@ -6,6 +6,7 @@
                 box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
                 margin-top: 26px;
             }
+            
 
             .slide-inner {
                 position: relative;
@@ -17,7 +18,7 @@
             .slide-open:checked + .slide-item {
                 position: static;
                 opacity: 100;
-                 data-delay="200ms"
+                
             }
 
             .slide-item {
@@ -39,7 +40,7 @@
                 color: #fff;
                 cursor: pointer;
                 display: none;
-                display: "200ms"
+                display: "200ms";
                 font-size: 40px;
                 height: 40px;
                 line-height: 35px;
@@ -126,12 +127,17 @@
         </style>
     </head>
     <body>
+        <div>
+            <h1>
+                ARMAS UTILIZADAS POR EL ARTE NINJA 
+            </h1>
+        </div>
         <div class="slide">
             <div class="slide-inner">
                 <input class="slide-open" type="radio" id="slide-1" 
                       name="slide" aria-hidden="true" hidden="" checked="checked">
                 <div class="slide-item">
-                    <img src="https://ramenparados.com/wp-content/uploads/2022/03/naruto-shippuden-replica-kunai-800x600.jpeg" width="1000" height="300">
+                    <img src="https://ramenparados.com/wp-content/uploads/2022/03/naruto-shippuden-replica-kunai-800x600.jpeg" width="10000" height="300">
                 </div>
                 <input class="slide-open" type="radio" id="slide-2" 
                       name="slide" aria-hidden="true" hidden="">
@@ -162,6 +168,11 @@
                         <label for="slide-3" class="slide-circulo">•</label>
                     </li>
                 </ol>
+            </div>
+            <div>
+                <h2>
+                    Entre las armas mas usadas por el arte ninjka se encuentran las armas como el Kunai, la Kusaarigama y la Katana
+                </h2>
             </div>
         </div>
     </body>
