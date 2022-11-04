@@ -174,6 +174,20 @@
                     Entre las armas mas usadas por el arte ninjka se encuentran las armas como el Kunai, la Kusaarigama y la Katana 
                 </h2>
             </div>
+            <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
+                    <div class="text-center text-sm text-gray-500 sm:text-left">
+                        <div class="flex items-center">
+                            <svg fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor" class="-mt-px w-5 h-5 text-gray-400">
+                                <img src="https://cdn-icons-png.flaticon.com/512/928/928536.png" width="25" height="25" alt="">
+                            </svg>
+
+                            <a href="http://127.0.0.1:8000" class="ml-1 underline">
+                                inicio
+                        </div>
+                    </div>
+
+                    
+                </div>
         </div>
     </body>
 </html>
