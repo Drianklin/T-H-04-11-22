@@ -124,6 +124,11 @@
         </style>
     </head>
     <body>
+    <div>
+            <h1>
+                LOS SAMURAI
+            </h1>
+        </div>
         <div class="slide">
             <div class="slide-inner">
                 <input class="slide-open" type="radio" id="slide-1" 
@@ -158,6 +163,12 @@
                         <label for="slide-3" class="slide-circulo">•</label>
                     </li>
                 </ol>
+            </div>
+            <div>
+                <h2>
+                La palabra samurái ​ o samuray ​ generalmente se utiliza para designar una gran variedad de guerreros del antiguo Japón, 
+                aunque su verdadero significado es el de una élite militar que gobernó el país durante cientos de años.​
+                </h2>    
             </div>
         </div>
     </body>
