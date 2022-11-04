@@ -171,7 +171,7 @@
             </div>
             <div>
                 <h2>
-                    Entre las armas mas usadas por el arte ninjka se encuentran las armas como el Kunai, la Kusaarigama y la Katana
+                    Entre las armas mas usadas por el arte ninjka se encuentran las armas como el Kunai, la Kusaarigama y la Katana 
                 </h2>
             </div>
         </div>
