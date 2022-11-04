@@ -1,8 +1,8 @@
 * text=auto
 
-*.blade.php diff=html
+*.blade.php diff=
 *.css diff=css
-*.html diff=html
+*. diff=
 *.md diff=markdown
 *.php diff=php
 
