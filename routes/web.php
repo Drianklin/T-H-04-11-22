@@ -22,3 +22,10 @@ Route::get('/historia', function  () {
     return view('historia');
 });
 
+Route::get('/armas-ninja', function  () {
+    return view('armas-ninja');
+});
+
+Route::get('/samurais', function  () {
+    return view('samurais');
+});
